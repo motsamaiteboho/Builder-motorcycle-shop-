@@ -1,0 +1,7 @@
+C:\Users\Motsa\Desktop\CSIS2664\Projects\P3\Builder(motorcycle shop)\Builder(motorcycle shop)\obj\Debug\Builder(motorcycle shop).csprojAssemblyReference.cache
+C:\Users\Motsa\Desktop\CSIS2664\Projects\P3\Builder(motorcycle shop)\Builder(motorcycle shop)\obj\Debug\Builder(motorcycle shop).csproj.CoreCompileInputs.cache
+C:\Users\Motsa\Desktop\CSIS2664\Projects\P3\Builder(motorcycle shop)\Builder(motorcycle shop)\bin\Debug\Builder(motorcycle shop).exe.config
+C:\Users\Motsa\Desktop\CSIS2664\Projects\P3\Builder(motorcycle shop)\Builder(motorcycle shop)\bin\Debug\Builder(motorcycle shop).exe
+C:\Users\Motsa\Desktop\CSIS2664\Projects\P3\Builder(motorcycle shop)\Builder(motorcycle shop)\bin\Debug\Builder(motorcycle shop).pdb
+C:\Users\Motsa\Desktop\CSIS2664\Projects\P3\Builder(motorcycle shop)\Builder(motorcycle shop)\obj\Debug\Builder(motorcycle shop).exe
+C:\Users\Motsa\Desktop\CSIS2664\Projects\P3\Builder(motorcycle shop)\Builder(motorcycle shop)\obj\Debug\Builder(motorcycle shop).pdb

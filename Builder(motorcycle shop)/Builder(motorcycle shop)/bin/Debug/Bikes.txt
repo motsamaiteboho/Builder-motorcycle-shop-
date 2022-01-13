@@ -1,0 +1,9 @@
+Naked,              Ducati,          Monster 696, 500, 0123456789, 2016, 75000
+Cruiser,            Harley Davidson, model,       700, 1234567890, 2018, 90000
+Sports,             Suzuki,          GSX-R,      1000, 2345678901, 2017, 90000
+Sports,             Ducati,          Diavel,     1100, 3456789012, 2015, 85000
+Sports-tourer,      BMW,             R1100RS,    1100, 4567890123, 2019, 210000
+Adventure,          BMW,             R1200GS,    1200, 5678901234, 2014, 150000
+Off-road adventure, Honda,           CFL1100L,   1100, 6789012345, 2020, 280000
+Scooter,            Modenas,         Kriss,       120, 7890123456, 2019, 25000
+Off-road,           KTM,             300XC,       300, 8901234567, 2020, 180000
